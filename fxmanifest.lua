@@ -6,4 +6,4 @@ name "RedM Key Listener"
 description "A Event firing key listener for RedM"
 author "NeroHiro"
 
-client_script "client/cl_main.lua"
+client_script "cl_main.lua"
